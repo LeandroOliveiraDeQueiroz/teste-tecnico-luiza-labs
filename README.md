@@ -1,11 +1,11 @@
-# teste-tecnico-luiza-labs
+# e-commerce-backend
 
 ## Índice
 
-* [Disclaimer](#disclaimer)
-* [System Design](#system-design)
-* [Stack](#stack)
-* [Run](#run)
+- [Disclaimer](#disclaimer)
+- [System Design](#system-design)
+- [Stack](#stack)
+- [Run](#run)
 
 ## Disclaimer <a name="disclaimer"></a>
 
@@ -24,7 +24,7 @@
 
 ## System Design <a name="system-design"></a>
 
-- Requisitos: 
+- Requisitos:
 
 ![image](https://github.com/user-attachments/assets/2834e49e-6ff7-49ae-aa14-fa20895f366b)
 
@@ -55,10 +55,10 @@
 
 Nesta seção, liste as tecnologias, linguagens de programação, frameworks e bibliotecas utilizadas no seu projeto.
 
-* Linguagem de Programação: TypeScript
-* Framework: Express - NodeJS
-* Banco de Dados: PostgreSQL
-* Outras Tecnologias: Docker, 
+- Linguagem de Programação: TypeScript
+- Framework: Express - NodeJS
+- Banco de Dados: PostgreSQL
+- Outras Tecnologias: Docker,
 
 [Voltar ao Índice](#índice) | [Voltar ao Disclaimer](#disclaimer) | [Voltar ao System Design](#system-design)
 
@@ -68,7 +68,7 @@ Nesta seção, liste as tecnologias, linguagens de programação, frameworks e b
 
 **Pré-requisitos:**
 
-* npm, Docker
+- npm, Docker
 
 **Instalação:**
 
@@ -85,9 +85,9 @@ Nesta seção, liste as tecnologias, linguagens de programação, frameworks e b
 
 **Execução:**
 
-* Para executar o projeto em modo de desenvolvimento:
-    ```bash
-    npm run docker-up
-    ```
+- Para executar o projeto em modo de desenvolvimento:
+  ```bash
+  npm run docker-up
+  ```
 
 [Voltar ao Índice](#índice) | [Voltar ao Disclaimer](#disclaimer) | [Voltar ao System Design](#system-design) | [Voltar ao Stack](#stack)
